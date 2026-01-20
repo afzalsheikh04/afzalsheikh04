@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently an undergraduate student at **Technocrats Institute of Technology, Bhopal**
+ 🔭 B.Tech graduate from **Technocrats Institute of Technology, Bhopal**
  
- 🌱 I’m currently learning **Spring Boot, Hibernate, Microservices, and AWS**
+ 🌱 Skilled in **Spring Boot, Hibernate, MySQL, and AWS** with a focus on backend development and scalable applications.
 
 ⚡ Fun fact: I love exploring new technologies and writing clean, efficient code.
 
-💬 Ask me about **Java, OOPs, DSA, cloud computing ... or anything [here](https://github.com/afzalshaikh04/afzalshaikh04/issues)**
+💬 Ask me about **Java, OOPs, AI, DSA, Cloud Computing ... or Anything [here](https://github.com/afzalshaikh04/afzalshaikh04/issues)**
 
 📫 How to reach me: **[afzalsheikh.2003@gmail.com](mailto:afzalsheikh.2003@gmail.com)**
 
