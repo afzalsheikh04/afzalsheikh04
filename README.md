@@ -16,7 +16,7 @@
 
 ⚡ Fun fact: I love exploring new technologies and writing clean, efficient code.
 
-💬 Ask me about **Java, OOPs, AI, DSA, Cloud Computing ... or Anything [here](https://github.com/afzalshaikh04/afzalshaikh04/issues)**
+💬 Ask me about **Java, OOPs, AI, DSA, Cloud Computing ... or Anything [here](https://github.com/afzalsheikh04/afzalsheikh04/issues)**
 
 📫 How to reach me: **[afzalsheikh.2003@gmail.com](mailto:afzalsheikh.2003@gmail.com)**
 
@@ -29,17 +29,17 @@
   <a href="https://www.linkedin.com/in/afzalshaikh04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://afzalshaikh04.github.io/personal-portfolio-page/" target="_blank">
+  <a href="https://afzalsheikh04.github.io/personal-portfolio-page/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/afzalshaikh04" target="_blank">
+  <a href="https://github.com/afzalsheikh04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 </div>
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=afzalshaikh04&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afzalsheikh04&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afzalshaikh04&theme=radical" alt="GitHub Streak Stats" />
 </div>
