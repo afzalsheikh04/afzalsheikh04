@@ -41,7 +41,7 @@
   <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=afzalsheikh04&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afzalshaikh04&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afzalsheikh04&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 ---
