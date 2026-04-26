@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=afzalsheikh04.afzalsheikh04" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Afzal;+Java+Backend+Developer;+Spring+Boot+Enthusiast;+DSA+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Afzal;+Java+Backend+Developer;+Software+Developer;+DSA+Problem+Solver" />
 </h1>
 
 <h3 align="center">🚀Java Backend Developer</h3>
@@ -80,14 +80,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afzalsheikh04&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
@@ -108,6 +100,3 @@
 ## ✨ Quote
 
 > "Consistency + Practice = Success 🚀"
-
----
-
