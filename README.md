@@ -4,17 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Afzal;+Java+Backend+Developer;+Software+Developer;+DSA+Problem+Solver" />
 </h1>
 
-<h3 align="center">🚀Java Backend Developer</h3>
+<h3 align="center">🚀Data Engineer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech (AI & ML) from **Technocrats Institute of Technology, Bhopal**
-- 💻 Strong in **Java, Python, Spring Boot, Hibernate, MySQL**
-- 🔥 Solved **1000+ DSA problems**
-- 🌱 Currently learning **System Design & Cloud (AWS)**
-- ⚡ Fun fact: I love writing clean & scalable backend code
+* 🎓 B.Tech (AI & ML) from **Technocrats Institute of Technology, Bhopal**
+* 💻 Data Engineering with **Python, SQL, PySpark, AWS, Snowflake, dbt & Apache Airflow**
+* 🔥 Solved **1000+ coding and SQL problems** across online coding platforms
+* 🌱 Currently learning **Data Engineering, Cloud Data Platforms & AI/LLM Integration**
+* ⚡ Fun fact: I enjoy building **scalable data pipelines and clean, reliable data solutions**
+
 
 ---
 
