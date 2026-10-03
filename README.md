@@ -35,24 +35,24 @@
 
 ---
 
-##🛠️ Tech Stack
-##🐍 Programming & Querying
+## 🛠️ Tech Stack
+## 🐍 Programming & Querying
 
 <p> <img src="https://skillicons.dev/icons?i=python,mysql" /> </p>
 
-### Python • SQL • Pandas • NumPy
+#### Python • SQL • Pandas • NumPy
 
 ## ☁️ Cloud & Data Platforms
 
 <p> <img src="https://skillicons.dev/icons?i=aws,snowflake" /> </p>
 
-### AWS S3 • AWS Glue • AWS EMR • AWS Redshift • Snowflake
+#### AWS S3 • AWS Glue • AWS EMR • AWS Redshift • Snowflake
 
 ## ⚙️ Data Engineering
 
 <p> <img src="https://skillicons.dev/icons?i=airflow,git,linux" /> </p>
 
-### ETL/ELT • Apache Spark • PySpark • dbt • Data Validation • Data Warehousing • Data Modeling
+#### ETL/ELT • Apache Spark • PySpark • dbt • Data Validation • Data Warehousing • Data Modeling
 
 ---
 
