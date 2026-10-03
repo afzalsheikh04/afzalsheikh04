@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Afzal;+Data+Engineer;+Software+Developer;+DSA+Problem+Solver" />
 </h1>
 
-<h3 align="center">🚀Data Engineer</h3>
+<h3 align="center">🚀 Aspiring Data Engineer | ETL & Data Pipelines | Cloud & Big Data</h3>
 
 ---
 
@@ -35,37 +35,44 @@
 
 ---
 
-## 🛠️ Tech Stack
+##🛠️ Tech Stack
+##🐍 Programming & Querying
 
-### 🚀 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=python,mysql" /> </p>
 
-### ⚙️ Backend & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=spring,mysql,aws,postman,git" />
-</p>
+### Python • SQL • Pandas • NumPy
 
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+## ☁️ Cloud & Data Platforms
+
+<p> <img src="https://skillicons.dev/icons?i=aws,snowflake" /> </p>
+
+### AWS S3 • AWS Glue • AWS EMR • AWS Redshift • Snowflake
+
+## ⚙️ Data Engineering
+
+<p> <img src="https://skillicons.dev/icons?i=airflow,git,linux" /> </p>
+
+### ETL/ELT • Apache Spark • PySpark • dbt • Data Validation • Data Warehousing • Data Modeling
 
 ---
 
 ## 💼 Projects
 
+### 🍔 End-to-End Food Delivery Data Engineering Pipeline
+ - Amazon S3 • Snowflake • dbt • Apache Airflow • OpenAI
+
+- Built an end-to-end data pipeline for large-scale food-delivery data.
+- Implemented RAW, STAGING and MARTS layers using a medallion architecture in Snowflake.
+- Developed incremental fact processing, dimensional models and business marts using dbt.
+- Implemented data-quality tests and validation for reliable analytical datasets.
+- Integrated OpenAI LLMs for customer review sentiment/topic analysis and natural-language warehouse analysis.
+  
 ### 🛒 E-Commerce Platform
 - Full backend system with authentication, cart & order management
 
 ### 🧠 Brain Buzzer Blitz
 - Real-time quiz platform using **Spring Boot + React + WebSockets**
 - Live leaderboard & instant updates
-
-### 🏢 Employee Management System
-- CRUD operations with efficient database integration
-
 ---
 
 ## 📊 GitHub Analytics
@@ -89,15 +96,11 @@
 
 ---
 
-## 🎯 Current Goals
-
-- 🚀 Crack top product-based companies
-- 🧠 Master System Design and Advance DSA
-- 🌍 Contribute to Open Source
-- ☁️ Advance in AWS & Cloud
+##🎯 Current Goals
+- 🚀 Start my career as a Data Engineer
+- ☁️ Build expertise in AWS Cloud & Data Engineering
+- ⚙️ Develop production-style ETL/ELT pipelines and data workflows
+- 🧠 Strengthen Python, SQL, PySpark & Data Structures
+- 🌍 Contribute to Open Source Data Engineering projects
 
 ---
-
-## ✨ Quote
-
-> "Consistency + Practice = Success 🚀"
