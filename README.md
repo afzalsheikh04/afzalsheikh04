@@ -88,14 +88,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afzalsheikh04&theme=tokyo-night" />
-</p>
-
----
-
 ##🎯 Current Goals
 - 🚀 Start my career as a Data Engineer
 - ☁️ Build expertise in AWS Cloud & Data Engineering
