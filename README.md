@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=afzalsheikh04.afzalsheikh04" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Afzal;+Java+Backend+Developer;+Software+Developer;+DSA+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Afzal;+Data+Engineer;+Software+Developer;+DSA+Problem+Solver" />
 </h1>
 
 <h3 align="center">🚀Data Engineer</h3>
